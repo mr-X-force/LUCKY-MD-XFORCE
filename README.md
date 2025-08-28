@@ -55,7 +55,7 @@
 </details>
 
 #### 2. **Railway**  
-[![Railway](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/railway.svg)](https://railway.app/new)  
+[Railway](https://railway.app/new)  
 <details><summary>Steps</summary>
 1. Open link  
 2. Click **Deploy from GitHub repo**  
@@ -65,7 +65,7 @@
 </details>
 
 #### 3. **Koyeb**  
-[![Koyeb](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/koyeb.svg)](https://app.koyeb.com/services/deploy?type=git&repository=mr-X-force/LUCKY-MD-XFORCE)  
+[Koyeb](https://app.koyeb.com/services/deploy?type=git&repository=mr-X-force/LUCKY-MD-XFORCE)  
 <details><summary>Steps</summary>
 1. Click above to open deploy panel  
 2. Authorize GitHub and select repo  
@@ -74,7 +74,7 @@
 </details>
 
 #### 4. **Render**  
-[![Render](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/render.svg)](https://dashboard.render.com/web/new)  
+[Render](https://dashboard.render.com/web/new)  
 <details><summary>Steps</summary>
 1. Open Render dashboard  
 2. Click **New Web Service**  
@@ -85,7 +85,7 @@
 </details>
 
 #### 5. **TalkDrove**  
-[![TalkDrove](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/talkdrove.svg)](https://host.talkdrove.com/share-bot/47)  
+[TalkDrove](https://host.talkdrove.com/share-bot/47)  
 <details><summary>Steps</summary>
 1. Open the TalkDrove link  
 2. Click **Deploy Now**  
@@ -95,7 +95,7 @@
 </details>
 
 #### 6. **Netlify** (For Frontend)  
-[![Netlify](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/netlify.svg)](https://app.netlify.com/)  
+[Netlif](https://app.netlify.com/)  
 <details><summary>Steps</summary>
 1. Use for frontend session site only  
 2. Drag/drop or link repo with index.html  
@@ -131,10 +131,10 @@
 
 ## 📱 Connect With Me
 
-📱 **Facebook**: [FredieEzra](https://facebook.com/fredieezra)  
+📱 **Facebook**: [FredieEzra](https://facebook.com/@FrediEzra)  
 📸 **Instagram**: [frediezra](https://instagram.com/frediezra)  
-📹 **YouTube**: [FrediAi-Tech](https://youtube.com/frediaitech)  
-📧 **GitHub**: [mr-X-force](https://github.com/mr-X-force)  
+📹 **YouTube**: [FrediAi-Tech](https://youtube.com/frediai-tech)  
+📧 **GitHub**: [Fredi Ai](https://github.com/mr-X-force)  
 
 ---
 
