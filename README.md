@@ -1,3 +1,5 @@
+
+
 # 🌟 LUCKY MD XFORCE 🚀
 
 [![FREDIEZRA TECH](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/lucky.svg)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
@@ -6,7 +8,7 @@
 
 ## 📊 Profile Overview
 
-👤 **Developer**: [LUCKY MD XFORCE](https://github.com/mr-X-force)  
+👤 **Developer**: [FREDI AI](https://github.com/mr-X-force)  
 📊 **Profile Views**:  
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-X-force&label=VIEWS&style=flat-square&color=blue)
 
@@ -43,7 +45,7 @@
 ### 🌐 Cloud Platforms
 
 #### 1. **Heroku**  
-[![Heroku](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/heroku.svg)](https://lucky-md-xforce-deploy-your-bot-with-your-github-username.vercel.app)  
+[Heroku](https://lucky-md-xforce-deploy-your-bot-with-your-github-username.vercel.app)  
 <details><summary>Steps</summary>
 1. Fork this repo  
 2. Click Heroku button above  
@@ -145,3 +147,22 @@
 3. Install the APK  
 4. Open the app and follow in-app instructions  
 </details>
+
+---
+
+## 📄 Changelog
+
+- **Version 2.9.9**: Improved UI, added tap-to-interact feature, enhanced platform support, and updated setup guide for clarity.
+
+---
+
+## 🤝 Contribution Guidelines
+
+Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Ensure your changes are well-documented and follow the project's coding standards.
+
+---
+
+## 🙏 Acknowledgments
+
+- Special thanks to all contributors who have helped shape this project.
+- Gratitude to the open-source community for their invaluable support.
