@@ -1,85 +1,147 @@
+# 🌟 LUCKY MD XFORCE 🚀
+
 [![FREDIEZRA TECH](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/lucky.svg)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
 
+---
 
-<p align="center">
-  <a href="https://github.com/mr-X-force">
-    <img title="Developer" src="https://img.shields.io/badge/Author-LUCKY%20MD%20XFORCE-FF00FF.svg?style=big-square&logo=github" />
-  </a>
-</p>
+## 📊 Profile Overview
 
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp" />
-  </a>
-</p>
+👤 **Developer**: [LUCKY MD XFORCE](https://github.com/mr-X-force)  
+📊 **Profile Views**:  
+![Profile Views](https://komarev.com/ghpvc/?username=mr-X-force&label=VIEWS&style=flat-square&color=blue)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-X-force&label=VIEWS&style=square&color=blue" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-X-force&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-X-force&layout=compact&theme=github_dark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-X-force&theme=monokai" />
-  <img src="https://komarev.com/ghpvc/?username=LUCKY-MD-XFORCE&label=VIEWS&style=square&color=blue" />
-</p>
+📈 **GitHub Stats**:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-X-force&show_icons=true&theme=github_dark)
+
+🏆 **Trophies**:  
+![Trophies](https://github-profile-trophy.vercel.app/?username=mr-X-force&theme=monokai)
+
+📈 **Contributions Graph**:  
+![Contributions](https://activity-graph.herokuapp.com/graph?username=mr-X-force&theme=github)
 
 ---
 
-## 🍽️🌟 Fork And Star My repo
+## 🎯 Features
 
-<a href='https://github.com/mr-X-force/LUCKY-MD-XFORCE/fork' target="_blank">
-  <img src='https://img.shields.io/badge/FORK REPO-800080?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
-</a>
-
-## 📌 GET YOUR SESSION ID
-
-> Required before deploying the bot:
-
-<a href='https://lucky-site.onrender.com' target="_blank">
-  <img src='https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000'/>
-</a>
+✨ **Anti-Features**: Anti-call, anti-delete, short session  
+✨ **Auto-Features**: Auto status read, auto message react  
+✨ **Dual Mode**: Group + DM features  
+✨ **Privacy**: Public/Private mode  
+✨ **Hosting**: Secure cloud-hosting compatible  
+✨ **Support**: Developer maintained: FredieTech  
 
 ---
 
-## 🚀 DEPLOY LUCKY MD XFORCE BOT TO YOUR HOST
+## 📥 Download ZIP
 
-# DOWLOAD ZIP FOR PANEL
-[`LUCKY XFORCE ZIP 📁`](https://github.com/mr-X-force/LUCKY-MD-XFORCE/archive/refs/heads/main.zip) ***all vars setting in [set.js]()***
-
-## HEROKU
-[![Heroku](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/heroku.svg)](https://lucky-md-xforce-deploy-your-bot-with-your-github-username.vercel.app) <details><summary>Step-by-step</summary><ul><li>Fork this repo</li><li>Click Heroku button above</li><li>Connect your GitHub and select this repo</li><li>Set config vars like SESSION_ID</li><li>Click **Deploy App**</li></ul></details>
-
-## TALKDROVE 
-[![TalkDrove](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/talkdrove.svg)](https://host.talkdrove.com/share-bot/47) <details><summary>Step-by-step</summary><ul><li>Open the TalkDrove link</li><li>Click **Deploy Now**</li><li>Paste repo link</li><li>Add ENV values (SESSION_ID)</li><li>Deploy the bot</li></ul></details>
-
-## KOYEB
-[![Koyeb](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/koyeb.svg)](https://app.koyeb.com/services/deploy?type=git&repository=mr-X-force/LUCKY-MD-XFORCE) <details><summary>Step-by-step</summary><ul><li>Click above to open deploy panel</li><li>Authorize GitHub and select repo</li><li>Set environment variables</li><li>Deploy and wait for logs to show successful build</li></ul></details>
-
-## RAILWAY
-[![Railway](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/railway.svg)](https://railway.app/new) <details><summary>Step-by-step</summary><ul><li>Open link</li><li>Click **Deploy from GitHub repo**</li><li>Select this repo</li><li>Go to variables tab → add SESSION_ID, AUTOBIO etc.</li><li>Deploy</li></ul></details>
-
-## RENDER
-[![Render](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/render.svg)](https://dashboard.render.com/web/new) <details><summary>Step-by-step</summary><ul><li>Open Render dashboard</li><li>Click **New Web Service**</li><li>Connect your GitHub</li><li>Choose this repo</li><li>Add build/start command & ENV vars</li><li>Click **Create Web Service**</li></ul></details>
-
-## NETLIFY
-[![Netlify](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/netlify.svg)](https://app.netlify.com/) <details><summary>Step-by-step</summary><ul><li>Use for frontend session site only</li><li>Drag/drop or link repo with index.html</li><li>Publish to host session UI</li></ul></details>
+📁 **Download ZIP File**: [LUCKY XFORCE ZIP 📁](https://github.com/mr-X-force/LUCKY-MD-XFORCE/archive/refs/heads/main.zip)
 
 ---
 
-## 🤖 BOT FEATURES
+## 🚀 Deployment Options
 
-- ✅ Anti-call, anti-delete, short session
-- ✅ Auto status read, auto message react
-- ✅ Group + DM features
-- ✅ Public/Private mode
-- ✅ Secure cloud-hosting compatible
-- ✅ Developer maintained: FredieTech
+### 🌐 Cloud Platforms
+
+#### 1. **Heroku**  
+[![Heroku](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/heroku.svg)](https://lucky-md-xforce-deploy-your-bot-with-your-github-username.vercel.app)  
+<details><summary>Steps</summary>
+1. Fork this repo  
+2. Click Heroku button above  
+3. Connect your GitHub and select this repo  
+4. Set config vars like SESSION_ID  
+5. Click **Deploy App**  
+</details>
+
+#### 2. **Railway**  
+[![Railway](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/railway.svg)](https://railway.app/new)  
+<details><summary>Steps</summary>
+1. Open link  
+2. Click **Deploy from GitHub repo**  
+3. Select this repo  
+4. Go to variables tab → add SESSION_ID, AUTOBIO etc.  
+5. Deploy  
+</details>
+
+#### 3. **Koyeb**  
+[![Koyeb](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/koyeb.svg)](https://app.koyeb.com/services/deploy?type=git&repository=mr-X-force/LUCKY-MD-XFORCE)  
+<details><summary>Steps</summary>
+1. Click above to open deploy panel  
+2. Authorize GitHub and select repo  
+3. Set environment variables  
+4. Deploy and wait for logs to show successful build  
+</details>
+
+#### 4. **Render**  
+[![Render](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/render.svg)](https://dashboard.render.com/web/new)  
+<details><summary>Steps</summary>
+1. Open Render dashboard  
+2. Click **New Web Service**  
+3. Connect your GitHub  
+4. Choose this repo  
+5. Add build/start command & ENV vars  
+6. Click **Create Web Service**  
+</details>
+
+#### 5. **TalkDrove**  
+[![TalkDrove](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/talkdrove.svg)](https://host.talkdrove.com/share-bot/47)  
+<details><summary>Steps</summary>
+1. Open the TalkDrove link  
+2. Click **Deploy Now**  
+3. Paste repo link  
+4. Add ENV values (SESSION_ID)  
+5. Deploy the bot  
+</details>
+
+#### 6. **Netlify** (For Frontend)  
+[![Netlify](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/netlify.svg)](https://app.netlify.com/)  
+<details><summary>Steps</summary>
+1. Use for frontend session site only  
+2. Drag/drop or link repo with index.html  
+3. Publish to host session UI  
+</details>
 
 ---
 
-## 🛠️ HOW TO USE
+## 🛠️ Setup Guide
 
-```bash
-# STEP 1: Fork the repo
-# STEP 2: Get your session ID (use link above)
-# STEP 3: Choose a host from table above
-# STEP 4: Deploy and input environment variables
-# STEP 5: Start the bot and enjoy powerful features
+1. **Fork the Repo**: Start by forking this repository to your GitHub account.  
+2. **Get Session ID**: Use [this link](https://lucky-site.onrender.com) to get your session ID.  
+3. **Choose Host**: Select a deployment platform from the options above.  
+4. **Deploy**: Follow the platform-specific instructions to deploy the bot.  
+5. **Configure**: Set up environment variables like SESSION_ID as required.  
+6. **Start Bot**: Once deployed, the bot will start automatically.  
+
+---
+
+## 📢 Join Community
+
+👥 **WhatsApp Channel**: [Join Now](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)  
+📢 **Stay Updated**: Get the latest updates, features, and support.  
+
+---
+
+## 📝 License
+
+📜 **License**: This project is under [MIT License](LICENSE).  
+📢 **Credits**: Developed with ❤️ by [FredieTech](https://github.com/mr-X-force).  
+
+---
+
+## 📱 Connect With Me
+
+📱 **Facebook**: [FredieEzra](https://facebook.com/fredieezra)  
+📸 **Instagram**: [frediezra](https://instagram.com/frediezra)  
+📹 **YouTube**: [FrediAi-Tech](https://youtube.com/frediaitech)  
+📧 **GitHub**: [mr-X-force](https://github.com/mr-X-force)  
+
+---
+
+## 📲 Download APK
+
+📁 **Download APK**: [Fredi.AI v2.9.9](https://www.mediafire.com/file/chyvv2mktqc9jsv/fredi.ai.v2.9.9.apk)  
+<details><summary>Installation Steps</summary>
+1. Download the APK file  
+2. Enable "Install from unknown sources" in your device settings  
+3. Install the APK  
+4. Open the app and follow in-app instructions  
+</details>
