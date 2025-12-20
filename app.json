@@ -129,26 +129,17 @@
     }
     },
 
-  "formation": {
+ "formation": {
+		"worker": {
+			"quantity": 1,
+			"size": "basic"
+		}
+	},
 
-    "worker": {
-
-      "quantity": 1,
-
-      "size": "standard-2x"
-
-    }
-
-  },
-
-  "addons": [
-
+  "addons":[
     {
-
-      "plan": "heroku-postgresql:essential-0"
-
+      "plan":"heroku-postgresql:essential-0"
     }
-
   ]
-
+	
 }
