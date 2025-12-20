@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/uw4l17.jpeg",
+  "logo": "https://files.catbox.moe/1q3yrw.jpg",
   "repository": "https://github.com/mr-X-force/LUCKY-MD-XFORCE",
   "succes_url": "/",
   "stack": "container",
@@ -21,30 +21,9 @@
       "description": "Your contact status will be read automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
       "required": false
-    },
-      "AUDIO_REPLY":
-    {
-      "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
-      "required":false
-    },
-    "AUTO_REPLY": {
-      "description": "when enabled it automatically sends  auto reply message in your chats for mentioned words",
-      "value": "no",
-      "required": false
-    },
+    },
     "GREET_MESSAGE": {
       "description": "when enabled it automatically sends greeting message in your chats",
-      "value": "no",
-      "required": false
-    },
-    "ANTI_BAD": {
-      "description": "when enabled it bot was detect bad words and delete",
-      "value": "no",
-      "required": false
-    },
-    "ANTI_BUG": {
-      "description": "when you enable anti bug 🐛 bot is detect bugs text and delete",
       "value": "no",
       "required": false
     },
@@ -62,11 +41,6 @@
       "description":"Enter yes for your bot to auto save contacts",
       "value":"no",
       "required":false
-    },
-    "AUTO_STICKER": {
-      "description": "when enabled it autosicker you allow bot to send sticker automatic with detected words",
-      "value": "no",
-      "required": false
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be downloaded automatically and sent to you (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
@@ -102,12 +76,7 @@
       "description": "Insert your Heroku API key (required)",
       "value": "",
       "required": true
-    },
-    "HEROKU_APP_NAME": {
-      "description": "Insert your Heroku app name (required)",
-      "value": "",
-      "required": true
-    },
+    },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
       "value": "",
