@@ -928,11 +928,11 @@ zk.ev.on("messages.upsert", async (m) => {
             const fredi = '255752593977';
             const ezra = '255620814108';
             const sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, Fredi, ezra, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const superUserNumbers = [servBot, fredi, ezra, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
-            var dev = [abu1, abu2,abu3,abu4].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            var dev = [eredi, ezra,].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
             console.log("\tLUCKY XFORCE MESSAGES");
             console.log("=========== NEW CONVERSATION ===========");
