@@ -932,7 +932,7 @@ zk.ev.on("messages.upsert", async (m) => {
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
-            var dev = [eredi, ezra,].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            var dev = [fredi, ezra,].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
             console.log("\tLUCKY XFORCE MESSAGES");
             console.log("=========== NEW CONVERSATION ===========");
