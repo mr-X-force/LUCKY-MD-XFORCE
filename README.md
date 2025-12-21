@@ -1,8 +1,6 @@
-update modify this readme add many more GitHub statics and more modern futures buttons and instruction 
-is for GitHub repository readme.md using
 
 
-# 🌟 LUCKY MD XFORCE 🚀
+# 🌟 LUCKY XFORCE 🚀
 
 [![FREDIEZRA TECH](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/lucky.svg)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
 
