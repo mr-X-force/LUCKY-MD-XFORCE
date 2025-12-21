@@ -7,7 +7,7 @@ const { repondre } = require(__dirname + "/../fredi/context");
 // Store user sessions for media selection
 const userSessions = new Map();
 
-// Newsletter context configuration[citation:1]
+// Newsletter context configuration
 const getNewsletterContext = (title = '', userJid = '', thumbnailUrl = '', sourceUrl = '') => ({
   mentionedJid: [userJid],
   forwardingScore: 999,
@@ -25,96 +25,6 @@ const getNewsletterContext = (title = '', userJid = '', thumbnailUrl = '', sourc
     sourceUrl: sourceUrl || conf.GURL || '',
     mediaType: 1,
     renderLargerThumbnail: false
-  }
-});
-
-// Main download command - single command for all downloads
-ezra({
-  nomCom: "download",
-  aliases: ["dl", "yt", "ytdl", "youtube"],
-  categorie: "Yt Dowloader",
-  reaction: "📥"
-}, async (dest, zk, commandOptions) => {
-  const { arg, ms, repondre, userJid, prefixe } = commandOptions;
-
-  // Check if user is selecting from options
-  if (arg[0] && !isNaN(arg[0]) && userSessions.has(dest)) {
-    return handleUserSelection(dest, zk, commandOptions);
-  }
-
-  // Check if a query is provided
-  if (!arg[0]) {
-    return repondre(`📥 *YouTube Downloader*\n\nUse: ${prefixe}download [video name/link]\n\nExample:\n${prefixe}download Adele Hello\n${prefixe}download https://youtube.com/watch?v=...`);
-  }
-
-  let videoUrl, videoInfo;
-  const query = arg.join(" ");
-
-  try {
-    // Check if it's a YouTube URL[citation:2]
-    if (query.match(/(youtube\.com|youtu\.be)/i)) {
-      videoUrl = query;
-      const videoId = videoUrl.match(/(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i)?.[1];
-      videoInfo = await ytSearch({ videoId });
-    } else {
-      // Perform a YouTube search
-      const searchResults = await ytSearch(query);
-      if (!searchResults?.videos?.length) {
-        return repondre('⚠️ No video found. Try a different search term.');
-      }
-      videoInfo = searchResults.videos[0];
-      videoUrl = videoInfo.url; // Changed from .info to .url
-    }
-
-    if (!videoInfo) {
-      return repondre('⚠️ Failed to retrieve video information.');
-    }
-
-    // Save video info in session
-    userSessions.set(dest, {
-      videoUrl,
-      videoInfo,
-      timestamp: Date.now()
-    });
-
-    // Show media selection menu
-    const menuText = `
-🎬 *${videoInfo.title.substring(0, 60)}${videoInfo.title.length > 60 ? '...' : ''}*
-
-⏱️ Duration: ${videoInfo.duration.timestamp || 'Unknown'}
-👁️ Views: ${videoInfo.views.toLocaleString()}
-📅 Uploaded: ${videoInfo.ago}
-
-📥 *Choose the type of media you want:*
-
-1️⃣ 🎵 *Audio (MP3)* - Playable music message
-2️⃣ 📁 *Audio Document* - MP3 file
-3️⃣ 🎬 *Video (MP4)* - Standard video
-4️⃣ 📁 *Video Document* - MP4 file
-5️⃣ 🎬 *HD Video* - High-quality video
-6️⃣ 🎵 *High Quality Audio* - Better quality audio
-
-*Reply with a number (1-6)*
-
-📌 *Instructions:* 
-- Use numbers 1-6 to choose
-- Or use "${prefixe}download [number]" 
-- Videos larger than 15MB will be sent as a document
-`.trim();
-
-    await zk.sendMessage(dest, {
-      text: menuText,
-      contextInfo: getNewsletterContext(
-        "YouTube Downloader",
-        userJid,
-        videoInfo.thumbnail,
-        videoUrl
-      )
-    }, { quoted: ms });
-
-  } catch (error) {
-    console.error('Search error:', error);[citation:4]
-    repondre(`⚠️ Error: ${error.message || error}`);
   }
 });
 
@@ -207,8 +117,8 @@ async function handleUserSelection(dest, zk, commandOptions) {
     userSessions.delete(dest);
 
   } catch (error) {
-    console.error('Download error:', error);[citation:6]
-    repondre(`⚠️ Failed to download: ${error.message || error}`);[citation:7]
+    console.error('Download error:', error);
+    repondre(`⚠️ Failed to download: ${error.message || error}`);
   }
 }
 
@@ -285,7 +195,7 @@ async function getVideoDownloadUrl(videoUrl, hdRequested = false) {
         }
       }
     } catch (error) {
-      console.warn(`Video API failed: ${api}`, error.message);[citation:4]
+      console.warn(`Video API failed: ${api}`, error.message);
       continue;
     }
   }
@@ -338,8 +248,107 @@ async function sendMedia(dest, zk, ms, options) {
   // Send success message
   const successEmoji = mediaType === 'audio' ? '🎵' : '🎬';
   const typeText = isDocument ? 'document file' : 'message';
-  await repondre(`${successEmoji} Success! ${mediaType === 'audio' ? 'Audio' : 'Video'} sent as ${typeText}.${qualityInfo ? `\n📊 Quality: ${qualityInfo}` : ''}`);
+  
+  // Using the repondre function properly
+  if (typeof repondre === 'function') {
+    await repondre(`${successEmoji} Success! ${mediaType === 'audio' ? 'Audio' : 'Video'} sent as ${typeText}.${qualityInfo ? `\n📊 Quality: ${qualityInfo}` : ''}`);
+  } else {
+    await zk.sendMessage(dest, { 
+      text: `${successEmoji} Success! ${mediaType === 'audio' ? 'Audio' : 'Video'} sent as ${typeText}.${qualityInfo ? `\n📊 Quality: ${qualityInfo}` : ''}` 
+    }, { quoted: ms });
+  }
 }
+
+// Main download command - single command for all downloads
+ezra({
+  nomCom: "download",
+  aliases: ["dl", "yt", "ytdl", "youtube"],
+  categorie: "Yt Dowloader",
+  reaction: "📥"
+}, async (dest, zk, commandOptions) => {
+  const { arg, ms, repondre, userJid, prefixe } = commandOptions;
+
+  // Check if user is selecting from options
+  if (arg[0] && !isNaN(arg[0]) && userSessions.has(dest)) {
+    return handleUserSelection(dest, zk, commandOptions);
+  }
+
+  // Check if a query is provided
+  if (!arg[0]) {
+    const helpText = `📥 *Lucky-Xforce Downloader*\n\nUse: ${prefixe}download [video name/link]\n\nExample:\n${prefixe}download Adele Hello\n${prefixe}download https://youtube.com/watch?v=...`;
+    return repondre(helpText);
+  }
+
+  let videoUrl, videoInfo;
+  const query = arg.join(" ");
+
+  try {
+    // Check if it's a YouTube URL
+    if (query.match(/(youtube\.com|youtu\.be)/i)) {
+      videoUrl = query;
+      const videoId = videoUrl.match(/(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i)?.[1];
+      videoInfo = await ytSearch({ videoId });
+    } else {
+      // Perform a YouTube search
+      const searchResults = await ytSearch(query);
+      if (!searchResults || !searchResults.videos || !searchResults.videos.length) {
+        return repondre('⚠️ No video found. Try a different search term.');
+      }
+      videoInfo = searchResults.videos[0];
+      videoUrl = videoInfo.url;
+    }
+
+    if (!videoInfo) {
+      return repondre('⚠️ Failed to retrieve video information.');
+    }
+
+    // Save video info in session
+    userSessions.set(dest, {
+      videoUrl,
+      videoInfo,
+      timestamp: Date.now()
+    });
+
+    // Show media selection menu
+    const menuText = `
+🎬 *${videoInfo.title.substring(0, 60)}${videoInfo.title.length > 60 ? '...' : ''}*
+
+⏱️ Duration: ${videoInfo.duration?.timestamp || 'Unknown'}
+👁️ Views: ${videoInfo.views ? videoInfo.views.toLocaleString() : 'Unknown'}
+📅 Uploaded: ${videoInfo.ago || 'Unknown'}
+
+📥 *Choose the type of media you want:*
+
+1️⃣ 🎵 *Audio (MP3)* - Playable music message
+2️⃣ 📁 *Audio Document* - MP3 file
+3️⃣ 🎬 *Video (MP4)* - Standard video
+4️⃣ 📁 *Video Document* - MP4 file
+5️⃣ 🎬 *HD Video* - High-quality video
+6️⃣ 🎵 *High Quality Audio* - Better quality audio
+
+*Reply with a number (1-6)*
+
+📌 *Instructions:* 
+- Use numbers 1-6 to choose
+- Or use "${prefixe}download [number]" 
+- Videos larger than 15MB will be sent as a document
+`.trim();
+
+    await zk.sendMessage(dest, {
+      text: menuText,
+      contextInfo: getNewsletterContext(
+        "YouTube Downloader",
+        userJid,
+        videoInfo.thumbnail,
+        videoUrl
+      )
+    }, { quoted: ms });
+
+  } catch (error) {
+    console.error('Search error:', error);
+    repondre(`⚠️ Error: ${error.message || error}`);
+  }
+});
 
 // Clean up old sessions every hour
 setInterval(() => {
