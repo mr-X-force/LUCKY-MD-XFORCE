@@ -53,7 +53,7 @@ ezra({
   }
 });
 
-
+/*
 ezra({
   nomCom: "repo",
   categorie: "General-Fredi",
@@ -111,5 +111,92 @@ ezra({
   } catch (e) {
     console.error("Error fetching data:", e);
     await repondre("❌ Error fetching repository data. Please try again later.");
+  }
+});
+*/
+
+
+
+
+ezra({
+  nomCom: "repo",
+  categorie: "General-Fredi",
+  reaction: "🫧",
+  nomFichier: __filename
+}, async (dest, zk, commandeOptions) => {
+  const { repondre } = commandeOptions;
+  const githubRepo = 'https://api.github.com/repos/mr-X-force/LUCKY-MD-XFORCE';
+
+  try {
+    const response = await axios.get(githubRepo);
+    const data = response.data;
+
+    const updated = moment(data.updated_at).format("DD/MM/YYYY");
+    
+    // Repository info with buttons
+    const gitInfo = `🫧 *${conf.BOT} Repository* 🫧\n
+✨ *Stars:* ${data.stargazers_count}
+🔱 *Forks:* ${data.forks_count}
+👁️ *Watchers:* ${data.watchers}
+📅 *Updated:* ${updated}\n
+_Powered by FrediEzra Tech Info_`;
+
+    // Send message with interactive buttons
+    await zk.sendMessage(dest, {
+      text: gitInfo,
+      footer: "Choose an action:",
+      buttons: [
+        {
+          buttonId: 'repo_link',
+          buttonText: { displayText: '🌐 Open Repository' }
+        },
+        {
+          buttonId: 'fork_repo',
+          buttonText: { displayText: '🔱 Fork Repository' }
+        },
+        {
+          buttonId: 'star_repo',
+          buttonText: { displayText: '⭐ Star Repository' }
+        }
+      ],
+      headerType: 1
+    }, { quoted: commandeOptions.ms });
+
+    // Send the audio message (existing code)
+    await zk.sendMessage(dest, {
+      audio: { url: "https://files.catbox.moe/j3sp1o.mp3" },
+      mimetype: "audio/mp4",
+      ptt: true,
+      caption: "*🫧 Lucky Xforce repo song 🫧",
+      contextInfo: {
+        isForwarded: true,
+        forwardedNewsletterMessageInfo: {
+          newsletterJid: "120363313124070136@newsletter",
+          newsletterName: "@FrediEzra",
+          serverMessageId: -1
+        }
+      }
+    });
+
+  } catch (error) {
+    console.error("❌ Error fetching repository data:", error);
+    
+    // Enhanced error handling based on Axios best practices [citation:5][citation:7]
+    let errorMessage = "❌ Error fetching repository data.";
+    
+    if (error.response) {
+      // Server responded with error status
+      console.error(`Status: ${error.response.status}`);
+      errorMessage = `❌ GitHub API error: ${error.response.status}`;
+    } else if (error.request) {
+      // Request made but no response
+      console.error("No response received from GitHub API");
+      errorMessage = "❌ Cannot connect to GitHub. Check your internet.";
+    } else {
+      // Other errors
+      console.error("Setup error:", error.message);
+    }
+    
+    await repondre(errorMessage);
   }
 });
