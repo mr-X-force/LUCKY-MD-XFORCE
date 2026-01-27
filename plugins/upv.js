@@ -1,1 +1,334 @@
-const _0x28be7c=_0x39db;(function(_0x48710d,_0x1d218b){const _0x4d89ee=_0x39db,_0x193dab=_0x48710d();while(!![]){try{const _0x4f6e77=-parseInt(_0x4d89ee(0x1a5))/(0x1e34+0x1b*0x121+-0x3cae)*(-parseInt(_0x4d89ee(0x1d7))/(0x26*0x5b+0x21de+-0x2f5e))+parseInt(_0x4d89ee(0x21d))/(0x10*0x1f1+-0x253a*-0x1+-0x4447)+-parseInt(_0x4d89ee(0x1ca))/(0x125*0x19+0x1*0x90e+-0x25a7)+-parseInt(_0x4d89ee(0x1e5))/(0x3*-0x175+-0x1835*-0x1+-0x13d1)*(parseInt(_0x4d89ee(0x217))/(0x1*0x15b6+-0x2005+0xa55))+parseInt(_0x4d89ee(0x1f4))/(-0x1*-0xba5+-0x24d*0x9+0x917)+parseInt(_0x4d89ee(0x22c))/(0x105*-0x13+0x2*-0x211+0x1789)+parseInt(_0x4d89ee(0x227))/(0x15*-0x191+-0x25a+0x2348)*(parseInt(_0x4d89ee(0x1c8))/(-0x269f+0x1075+0xb1a*0x2));if(_0x4f6e77===_0x1d218b)break;else _0x193dab['push'](_0x193dab['shift']());}catch(_0x107add){_0x193dab['push'](_0x193dab['shift']());}}}(_0x426a,-0x3a*0x4d50+0x438ef*0x3+0xf5a7f));function _0x39db(_0x88b98d,_0x48dc77){const _0x464840=_0x426a();return _0x39db=function(_0x4b819d,_0x343a53){_0x4b819d=_0x4b819d-(0x1*-0xc11+0x1*0x329+-0x3*-0x37d);let _0xa6a61e=_0x464840[_0x4b819d];return _0xa6a61e;},_0x39db(_0x88b98d,_0x48dc77);}function _0x426a(){const _0x445c55=['\x20download\x20','mp3','/../fredi/','ite','WNYIc','⚠️\x20Failed\x20t','rveGz','audio','VRkjO','https://ap','lzLZo','Xvhle','YYOMt','\x20found\x20for','ll\x20sources','title','naJpc','⚠️\x20Error\x20du','vi/2WmBa1C','kxFCA','iHJTC','play','ercel.app/','or\x20YouTube','audio.mp3','Lucky\x20Audi','HYRat','⚠️\x20No\x20audio','Error\x20fetc','pqCxb','WgMbJ','URL\x20from\x20a','⚠️\x20Download','12486EZZmLO','video/mpeg','load','status','aWkSu','sendMessag','659661YyuuUr','sOxUq','data','OuOsb','TqGEq','\x20the\x20speci','get','yt-search','o\x20Download','ytimg.com/','99WmxKBS','ry\x20again\x20l','rovide\x20a\x20v','HfoKg','tmp4?url=','1767400uVaNeo','o\x20retrieve','ArsPg','GURL','result','thumbnail','ntFjz','\x20fredi\x20ai\x20','dlmp4','ideo?url=','is-keith.v','Audio\x20Docu','ogovW','UjmMj','ments\x20Down','FLLwu','axios','udio?url=','KMXrT','replace','download/d','video','hMupe','lmp4?url=','Powered\x20by','ersion\x20-\x20P','hing\x20data\x20','PfcLC','nnZdm','aJmCH','download/a','669557ThOFxF','oXVXb','p3?url=','viYE/hqdef','videodoc','dlmp3','../fredi/e','JLinU','Fredi-Sear','/../set','song','match','Document\x20v','https://i.','message','.\x20Please\x20t','zSbqi','p4?url=','tmp3?url=','KNdzg','Search','rovide\x20a\x20a','\x20failed\x20du','⚠️\x20No\x20video','mp4','ault.jpg','ring\x20downl','gcvZc','includes','NwBSW','upEId','url','vdoc','download/m','niBjJ','25220CCLjQc','audio/mpeg','269228XAICFU','.mp4','audio.mp4','downloadUr','\x20link.','ytmp4','length','mblIY','😐\x20Please\x20p','lmp3?url=','ater.','jHrVi','Lucky\x20Vide','2BBwWwa','context','join','fied\x20query','error','udio\x20name\x20','BpbVV','QmUFM','ideo\x20name\x20','videos','Video\x20Docu','.mp3','FvDpe','EaoJh','1675eyMPQg','zra','from\x20API:','download/v','owered\x20by\x20','playdoc','download/y','ytmp3','PLalg','oad\x20proces','qkSLM','hDQfU','ror:\x20','Fredi\x20Ai\x20s','site','2203313MOsHNu','e\x20to\x20an\x20er'];_0x426a=function(){return _0x445c55;};return _0x426a();}const {ezra}=require(_0x28be7c(0x1ab)+_0x28be7c(0x1e6)),axios=require(_0x28be7c(0x196)),ytSearch=require(_0x28be7c(0x224)),conf=require(__dirname+_0x28be7c(0x1ae)),{repondre}=require(__dirname+(_0x28be7c(0x1f8)+_0x28be7c(0x1d8)));ezra({'nomCom':_0x28be7c(0x20b),'aliases':[_0x28be7c(0x1af),_0x28be7c(0x1ea),_0x28be7c(0x1fd),_0x28be7c(0x1f7)],'categorie':_0x28be7c(0x1b9),'reaction':'🎸'},async(_0x52adfd,_0x3169bc,_0x3f281f)=>{const _0x30bc2e=_0x28be7c,_0x11b1fe={'VRkjO':_0x30bc2e(0x212)+_0x30bc2e(0x1a0)+_0x30bc2e(0x1e7),'jHrVi':function(_0x550334,_0x3ab3b0){return _0x550334(_0x3ab3b0);},'oXVXb':_0x30bc2e(0x1d2)+_0x30bc2e(0x1ba)+_0x30bc2e(0x1dc)+_0x30bc2e(0x20d)+_0x30bc2e(0x1ce),'YYOMt':function(_0x2f9d56,_0x52ba18){return _0x2f9d56(_0x52ba18);},'rveGz':function(_0x5a7a4a,_0x34320a){return _0x5a7a4a(_0x34320a);},'WNYIc':_0x30bc2e(0x211)+_0x30bc2e(0x203)+_0x30bc2e(0x222)+_0x30bc2e(0x1da)+'.','kxFCA':function(_0x200ac0,_0x4fc822){return _0x200ac0(_0x4fc822);},'zSbqi':function(_0x230d98,_0x2a0e1b){return _0x230d98(_0x2a0e1b);},'PLalg':_0x30bc2e(0x1ec),'hDQfU':_0x30bc2e(0x1f7),'aWkSu':_0x30bc2e(0x1aa),'NwBSW':_0x30bc2e(0x1fd),'mblIY':_0x30bc2e(0x1fb)+_0x30bc2e(0x22d)+_0x30bc2e(0x1f6)+_0x30bc2e(0x215)+_0x30bc2e(0x204)+_0x30bc2e(0x1b4)+_0x30bc2e(0x228)+_0x30bc2e(0x1d4),'WgMbJ':_0x30bc2e(0x1c9),'nnZdm':_0x30bc2e(0x20f)+_0x30bc2e(0x225),'niBjJ':_0x30bc2e(0x19e)+_0x30bc2e(0x233)+_0x30bc2e(0x1f3),'HfoKg':_0x30bc2e(0x1b2)+_0x30bc2e(0x226)+_0x30bc2e(0x208)+_0x30bc2e(0x1a8)+_0x30bc2e(0x1be),'iHJTC':_0x30bc2e(0x20e),'gcvZc':_0x30bc2e(0x191)+_0x30bc2e(0x194)+_0x30bc2e(0x219),'KMXrT':_0x30bc2e(0x1b1)+_0x30bc2e(0x19f)+_0x30bc2e(0x1e9)+_0x30bc2e(0x1f2)+_0x30bc2e(0x1f9),'Xvhle':_0x30bc2e(0x207)+_0x30bc2e(0x1bf)+_0x30bc2e(0x1ee)+'s:'},{arg:_0x2cc854,ms:_0x564244,repondre:_0x13d03f}=_0x3f281f;if(!_0x2cc854[-0x47*-0x25+-0x1435+-0x4f9*-0x2])return _0x11b1fe[_0x30bc2e(0x1d5)](_0x13d03f,_0x11b1fe[_0x30bc2e(0x1a6)]);let _0x1411e7,_0x41136f;const _0x2f4242=_0x2cc854[_0x30bc2e(0x1d9)]('\x20');try{if(_0x2f4242[_0x30bc2e(0x1b0)](/(youtube\.com|youtu\.be)/i)){_0x1411e7=_0x2f4242;const _0x2965d4=_0x1411e7[_0x30bc2e(0x1b0)](/(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i)?.[-0xecf*-0x2+0x2062+-0x3dff];_0x41136f=await _0x11b1fe[_0x30bc2e(0x202)](ytSearch,{'videoId':_0x2965d4});}else{const _0x41a87b=await _0x11b1fe[_0x30bc2e(0x1fc)](ytSearch,_0x2f4242);if(!_0x41a87b||!_0x41a87b[_0x30bc2e(0x1e0)][_0x30bc2e(0x1d0)])return _0x11b1fe[_0x30bc2e(0x1fc)](_0x13d03f,_0x11b1fe[_0x30bc2e(0x1fa)]);_0x41136f=_0x41a87b[_0x30bc2e(0x1e0)][-0x1414+-0x1a4a+0x2e5e],_0x1411e7=_0x41136f[_0x30bc2e(0x1c4)];}const _0x4a647f=async _0x5da5e7=>{const _0xe56645=_0x30bc2e;try{const _0x856bc5=await axios[_0xe56645(0x223)](_0x5da5e7,{'timeout':0x2710});return _0x856bc5[_0xe56645(0x21f)];}catch(_0x58cd8c){return console[_0xe56645(0x1db)](_0x11b1fe[_0xe56645(0x1fe)],_0x58cd8c[_0xe56645(0x1b3)]),{'status':![]};}},_0x1c7c37=[_0x30bc2e(0x1ff)+_0x30bc2e(0x190)+_0x30bc2e(0x20c)+_0x30bc2e(0x1eb)+_0x30bc2e(0x1b7)+_0x11b1fe[_0x30bc2e(0x209)](encodeURIComponent,_0x1411e7),_0x30bc2e(0x1ff)+_0x30bc2e(0x190)+_0x30bc2e(0x20c)+_0x30bc2e(0x1c6)+_0x30bc2e(0x1a7)+_0x11b1fe[_0x30bc2e(0x209)](encodeURIComponent,_0x1411e7),_0x30bc2e(0x1ff)+_0x30bc2e(0x190)+_0x30bc2e(0x20c)+_0x30bc2e(0x19a)+_0x30bc2e(0x1d3)+_0x11b1fe[_0x30bc2e(0x1b5)](encodeURIComponent,_0x1411e7),_0x30bc2e(0x1ff)+_0x30bc2e(0x190)+_0x30bc2e(0x20c)+_0x30bc2e(0x1a4)+_0x30bc2e(0x197)+_0x11b1fe[_0x30bc2e(0x1b5)](encodeURIComponent,_0x1411e7)];let _0x43e884;for(const _0x2b6fc7 of _0x1c7c37){const _0x36975d=await _0x11b1fe[_0x30bc2e(0x1fc)](_0x4a647f,_0x2b6fc7);if(_0x36975d&&_0x36975d[_0x30bc2e(0x21a)]){if(_0x2b6fc7[_0x30bc2e(0x1c1)](_0x11b1fe[_0x30bc2e(0x1ed)]))_0x43e884=_0x36975d[_0x30bc2e(0x230)][_0x30bc2e(0x1c4)];else{if(_0x2b6fc7[_0x30bc2e(0x1c1)](_0x11b1fe[_0x30bc2e(0x1f0)]))_0x43e884=_0x36975d[_0x30bc2e(0x230)][_0x30bc2e(0x1cd)+'l'];else{if(_0x2b6fc7[_0x30bc2e(0x1c1)](_0x11b1fe[_0x30bc2e(0x21b)]))_0x43e884=_0x36975d[_0x30bc2e(0x230)][_0x30bc2e(0x21f)][_0x30bc2e(0x1cd)+'l'];else _0x2b6fc7[_0x30bc2e(0x1c1)](_0x11b1fe[_0x30bc2e(0x1c2)])&&(_0x43e884=_0x36975d[_0x30bc2e(0x230)]);}}if(_0x43e884)break;}}if(!_0x43e884)return _0x11b1fe[_0x30bc2e(0x1d5)](_0x13d03f,_0x11b1fe[_0x30bc2e(0x1d1)]);const _0x696f04=[{'audio':{'url':_0x43e884},'mimetype':_0x11b1fe[_0x30bc2e(0x214)],'contextInfo':{'externalAdReply':{'title':_0x41136f[_0x30bc2e(0x205)]||_0x11b1fe[_0x30bc2e(0x1a2)],'body':_0x11b1fe[_0x30bc2e(0x1c7)],'mediaType':0x1,'sourceUrl':conf[_0x30bc2e(0x22f)]||_0x1411e7,'thumbnailUrl':_0x41136f[_0x30bc2e(0x231)]||_0x11b1fe[_0x30bc2e(0x22a)],'renderLargerThumbnail':![]}}},{'document':{'url':_0x43e884},'mimetype':_0x11b1fe[_0x30bc2e(0x214)],'fileName':_0x41136f[_0x30bc2e(0x205)][_0x30bc2e(0x199)](/[^\w\s]/gi,'')+_0x30bc2e(0x1e2)||_0x11b1fe[_0x30bc2e(0x20a)],'contextInfo':{'externalAdReply':{'title':_0x41136f[_0x30bc2e(0x205)]||_0x11b1fe[_0x30bc2e(0x1c0)],'body':_0x11b1fe[_0x30bc2e(0x198)],'mediaType':0x1,'sourceUrl':conf[_0x30bc2e(0x22f)]||_0x1411e7,'thumbnailUrl':_0x41136f[_0x30bc2e(0x231)]||_0x11b1fe[_0x30bc2e(0x22a)],'renderLargerThumbnail':![]}}}];for(const _0x15846d of _0x696f04){await _0x3169bc[_0x30bc2e(0x21c)+'e'](_0x52adfd,_0x15846d,{'quoted':_0x564244});}}catch(_0x31ba37){return console[_0x30bc2e(0x1db)](_0x11b1fe[_0x30bc2e(0x201)],_0x31ba37),_0x11b1fe[_0x30bc2e(0x209)](_0x13d03f,_0x30bc2e(0x216)+_0x30bc2e(0x1bb)+_0x30bc2e(0x1f5)+_0x30bc2e(0x1f1)+(_0x31ba37[_0x30bc2e(0x1b3)]||_0x31ba37));}}),ezra({'nomCom':_0x28be7c(0x19b),'aliases':[_0x28be7c(0x1c5),_0x28be7c(0x1a9),_0x28be7c(0x1e0),_0x28be7c(0x1bd)],'categorie':_0x28be7c(0x1ad)+'ch','reaction':'🎬'},async(_0x20490e,_0x60c014,_0x41fb43)=>{const _0x31e64b=_0x28be7c,_0x5cd241={'qkSLM':_0x31e64b(0x212)+_0x31e64b(0x1a0)+_0x31e64b(0x1e7),'FLLwu':function(_0x1dfbbe,_0x20cf1f){return _0x1dfbbe(_0x20cf1f);},'sOxUq':_0x31e64b(0x1d2)+_0x31e64b(0x229)+_0x31e64b(0x1df)+_0x31e64b(0x20d)+_0x31e64b(0x1ce),'ArsPg':function(_0x25e261,_0x1b4beb){return _0x25e261(_0x1b4beb);},'EaoJh':_0x31e64b(0x1bc)+_0x31e64b(0x203)+_0x31e64b(0x222)+_0x31e64b(0x1da)+'.','naJpc':function(_0x32f119,_0x27b55a){return _0x32f119(_0x27b55a);},'upEId':function(_0x1afc58,_0x27da5f){return _0x1afc58(_0x27da5f);},'ntFjz':function(_0x55afe5,_0x97b2be){return _0x55afe5(_0x97b2be);},'UjmMj':_0x31e64b(0x1cf),'QmUFM':_0x31e64b(0x1bd),'BpbVV':_0x31e64b(0x234),'PfcLC':_0x31e64b(0x19b),'HYRat':function(_0x78461e,_0x325165){return _0x78461e(_0x325165);},'OuOsb':_0x31e64b(0x1fb)+_0x31e64b(0x22d)+_0x31e64b(0x1f6)+_0x31e64b(0x215)+_0x31e64b(0x204)+_0x31e64b(0x1b4)+_0x31e64b(0x228)+_0x31e64b(0x1d4),'TqGEq':_0x31e64b(0x218),'pqCxb':_0x31e64b(0x1d6)+_0x31e64b(0x225),'ogovW':_0x31e64b(0x19e)+_0x31e64b(0x233)+_0x31e64b(0x1f3),'FvDpe':_0x31e64b(0x1b2)+_0x31e64b(0x226)+_0x31e64b(0x208)+_0x31e64b(0x1a8)+_0x31e64b(0x1be),'JLinU':_0x31e64b(0x1cc),'aJmCH':_0x31e64b(0x1e1)+_0x31e64b(0x194)+_0x31e64b(0x219),'lzLZo':_0x31e64b(0x1b1)+_0x31e64b(0x19f)+_0x31e64b(0x1e9)+_0x31e64b(0x1f2)+_0x31e64b(0x1f9),'hMupe':_0x31e64b(0x207)+_0x31e64b(0x1bf)+_0x31e64b(0x1ee)+'s:','KNdzg':function(_0x386ce8,_0x566c9c){return _0x386ce8(_0x566c9c);}},{arg:_0x2e050e,ms:_0x232b0d,repondre:_0x7be622}=_0x41fb43;if(!_0x2e050e[0x51*0x49+0x1189+0x2e7*-0xe])return _0x5cd241[_0x31e64b(0x195)](_0x7be622,_0x5cd241[_0x31e64b(0x21e)]);let _0x186849,_0x5a045f;const _0x4b3cc6=_0x2e050e[_0x31e64b(0x1d9)]('\x20');try{if(_0x4b3cc6[_0x31e64b(0x1b0)](/(youtube\.com|youtu\.be)/i)){_0x186849=_0x4b3cc6;const _0x5a6449=_0x186849[_0x31e64b(0x1b0)](/(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i)?.[-0x176d+-0x5ca*-0x6+-0x5a7*0x2];_0x5a045f=await _0x5cd241[_0x31e64b(0x195)](ytSearch,{'videoId':_0x5a6449});}else{const _0x41ba78=await _0x5cd241[_0x31e64b(0x22e)](ytSearch,_0x4b3cc6);if(!_0x41ba78||!_0x41ba78[_0x31e64b(0x1e0)][_0x31e64b(0x1d0)])return _0x5cd241[_0x31e64b(0x195)](_0x7be622,_0x5cd241[_0x31e64b(0x1e4)]);_0x5a045f=_0x41ba78[_0x31e64b(0x1e0)][-0x2b*0x43+-0x1a63+-0x84*-0x49],_0x186849=_0x5a045f[_0x31e64b(0x1c4)];}const _0x4ca009=async _0x3ab083=>{const _0x115019=_0x31e64b;try{const _0x478896=await axios[_0x115019(0x223)](_0x3ab083,{'timeout':0x2710});return _0x478896[_0x115019(0x21f)];}catch(_0xb4ad5){return console[_0x115019(0x1db)](_0x5cd241[_0x115019(0x1ef)],_0xb4ad5[_0x115019(0x1b3)]),{'status':![]};}},_0x40fe13=[_0x31e64b(0x1ff)+_0x31e64b(0x190)+_0x31e64b(0x20c)+_0x31e64b(0x1eb)+_0x31e64b(0x22b)+_0x5cd241[_0x31e64b(0x206)](encodeURIComponent,_0x186849),_0x31e64b(0x1ff)+_0x31e64b(0x190)+_0x31e64b(0x20c)+_0x31e64b(0x1c6)+_0x31e64b(0x1b6)+_0x5cd241[_0x31e64b(0x195)](encodeURIComponent,_0x186849),_0x31e64b(0x1ff)+_0x31e64b(0x190)+_0x31e64b(0x20c)+_0x31e64b(0x19a)+_0x31e64b(0x19d)+_0x5cd241[_0x31e64b(0x1c3)](encodeURIComponent,_0x186849),_0x31e64b(0x1ff)+_0x31e64b(0x190)+_0x31e64b(0x20c)+_0x31e64b(0x1e8)+_0x31e64b(0x18f)+_0x5cd241[_0x31e64b(0x232)](encodeURIComponent,_0x186849)];let _0x341113;for(const _0x4e520c of _0x40fe13){const _0x51fbb3=await _0x5cd241[_0x31e64b(0x206)](_0x4ca009,_0x4e520c);if(_0x51fbb3&&_0x51fbb3[_0x31e64b(0x21a)]){if(_0x4e520c[_0x31e64b(0x1c1)](_0x5cd241[_0x31e64b(0x193)]))_0x341113=_0x51fbb3[_0x31e64b(0x230)][_0x31e64b(0x1c4)];else{if(_0x4e520c[_0x31e64b(0x1c1)](_0x5cd241[_0x31e64b(0x1de)]))_0x341113=_0x51fbb3[_0x31e64b(0x230)][_0x31e64b(0x1cd)+'l'];else{if(_0x4e520c[_0x31e64b(0x1c1)](_0x5cd241[_0x31e64b(0x1dd)]))_0x341113=_0x51fbb3[_0x31e64b(0x230)][_0x31e64b(0x21f)][_0x31e64b(0x1cd)+'l'];else _0x4e520c[_0x31e64b(0x1c1)](_0x5cd241[_0x31e64b(0x1a1)])&&(_0x341113=_0x51fbb3[_0x31e64b(0x230)]);}}if(_0x341113)break;}}if(!_0x341113)return _0x5cd241[_0x31e64b(0x210)](_0x7be622,_0x5cd241[_0x31e64b(0x220)]);const _0x2945ac=[{'audio':{'url':_0x341113},'mimetype':_0x5cd241[_0x31e64b(0x221)],'contextInfo':{'externalAdReply':{'title':_0x5a045f[_0x31e64b(0x205)]||_0x5cd241[_0x31e64b(0x213)],'body':_0x5cd241[_0x31e64b(0x192)],'mediaType':0x1,'sourceUrl':conf[_0x31e64b(0x22f)]||_0x186849,'thumbnailUrl':_0x5a045f[_0x31e64b(0x231)]||_0x5cd241[_0x31e64b(0x1e3)],'renderLargerThumbnail':![]}}},{'document':{'url':_0x341113},'mimetype':_0x5cd241[_0x31e64b(0x221)],'fileName':_0x5a045f[_0x31e64b(0x205)][_0x31e64b(0x199)](/[^\w\s]/gi,'')+_0x31e64b(0x1cb)||_0x5cd241[_0x31e64b(0x1ac)],'contextInfo':{'externalAdReply':{'title':_0x5a045f[_0x31e64b(0x205)]||_0x5cd241[_0x31e64b(0x1a3)],'body':_0x5cd241[_0x31e64b(0x200)],'mediaType':0x1,'sourceUrl':conf[_0x31e64b(0x22f)]||_0x186849,'thumbnailUrl':_0x5a045f[_0x31e64b(0x231)]||_0x5cd241[_0x31e64b(0x1e3)],'renderLargerThumbnail':![]}}}];for(const _0x496b1d of _0x2945ac){await _0x60c014[_0x31e64b(0x21c)+'e'](_0x20490e,_0x496b1d,{'quoted':_0x232b0d});}}catch(_0x53d58e){return console[_0x31e64b(0x1db)](_0x5cd241[_0x31e64b(0x19c)],_0x53d58e),_0x5cd241[_0x31e64b(0x1b8)](_0x7be622,_0x31e64b(0x216)+_0x31e64b(0x1bb)+_0x31e64b(0x1f5)+_0x31e64b(0x1f1)+(_0x53d58e[_0x31e64b(0x1b3)]||_0x53d58e));}});
+const { ezra } = require("../fredi/ezra");
+const axios = require('axios');
+const ytSearch = require('yt-search');
+const conf = require(__dirname + '/../set');
+const { Catbox } = require("node-catbox");
+const fs = require('fs-extra');
+const { repondre } = require(__dirname + "/../fredi/context");
+
+// Initialize Catbox
+const catbox = new Catbox();
+
+// Common contextInfo configuration
+const getContextInfo = (title = '', userJid = '', thumbnailUrl = '') => ({
+  mentionedJid: [userJid],
+  forwardingScore: 999,
+  isForwarded: true,
+  forwardedNewsletterMessageInfo: {
+    newsletterJid: "120363313124070136@newsletter",
+    newsletterName: "Fredi AI CEO",
+    serverMessageId: Math.floor(100000 + Math.random() * 900000),
+  },
+  externalAdReply: {
+    showAdAttribution: true,
+    title: conf.BOT || 'YouTube Downloader',
+    body: title || "Media Downloader",
+    thumbnailUrl: thumbnailUrl || conf.URL || '',
+    sourceUrl: conf.GURL || '',
+    mediaType: 1,
+    renderLargerThumbnail: false
+  }
+});
+
+// Function to upload a file to Catbox and return the URL
+async function uploadToCatbox(filePath) {
+  try {
+    if (!fs.existsSync(filePath)) {
+      throw new Error("File does not exist");
+    }
+    const uploadResult = await catbox.uploadFile({ path: filePath });
+    return uploadResult || null;
+  } catch (error) {
+    console.error('Catbox upload error:', error);
+    throw new Error(`Failed to upload file: ${error.message}`);
+  }
+}
+
+// Common function for YouTube search
+async function searchYouTube(query) {
+  try {
+    const searchResults = await ytSearch(query);
+    if (!searchResults?.videos?.length) {
+      throw new Error('No video found for the specified query.');
+    }
+    return searchResults.videos[0];
+  } catch (error) {
+    console.error('YouTube search error:', error);
+    throw new Error(`YouTube search failed: ${error.message}`);
+  }
+}
+
+// Common function for downloading media from APIs
+async function downloadFromApis(apis) {
+  for (const api of apis) {
+    try {
+      const response = await axios.get(api, { timeout: 15000 });
+      if (response.data?.success || response.data?.status === 'success' || response.data?.url) {
+        return response.data;
+      }
+    } catch (error) {
+      console.warn(`API ${api} failed:`, error.message);
+      continue;
+    }
+  }
+  throw new Error('Failed to retrieve download URL from all sources.');
+}
+
+// Audio download command with new API endpoints
+ezra({
+  nomCom: "play",
+  aliases: ["song", "playdoc", "audio", "mp3"],
+  categorie: "Fredi-Download",
+  reaction: "🎵"
+}, async (dest, zk, commandOptions) => {
+  const { arg, ms, userJid } = commandOptions;
+
+  try {
+    if (!arg[0]) {
+      return repondre(zk, dest, ms, "Please provide a song name.");
+    }
+
+    const query = arg.join(" ");
+    const video = await searchYouTube(query);
+    
+    await zk.sendMessage(dest, {
+      text: "⬇️ Downloading audio... This may take a moment...",
+      contextInfo: getContextInfo("Downloading", userJid, video.thumbnail)
+    }, { quoted: ms });
+
+    // Using new API endpoints for audio
+    const apis = [
+      `https://api.ootaizumi.web.id/downloader/youtube/v2?url=${encodeURIComponent(video.url)}&type=audio`,
+      `https://api.ootaizumi.web.id/downloader/youtube?url=${encodeURIComponent(video.url)}&type=audio`,
+      `https://api.ootaizumi.web.id/downloader/youtube/play?query=${encodeURIComponent(query)}&type=audio`
+    ];
+
+    const downloadData = await downloadFromApis(apis);
+    
+    // Handle different API response formats
+    let downloadUrl, title;
+    if (downloadData.url) {
+      downloadUrl = downloadData.url;
+      title = video.title || "Audio Track";
+    } else if (downloadData.result?.url) {
+      downloadUrl = downloadData.result.url;
+      title = downloadData.result.title || video.title;
+    } else if (downloadData.download_url) {
+      downloadUrl = downloadData.download_url;
+      title = downloadData.title || video.title;
+    } else {
+      throw new Error('Invalid API response format');
+    }
+
+    const messagePayloads = [
+      {
+        audio: { url: downloadUrl },
+        mimetype: 'audio/mp4',
+        caption: `🎵 *${title}*`,
+        contextInfo: getContextInfo(title, userJid, video.thumbnail)
+      },
+      {
+        document: { url: downloadUrl },
+        mimetype: 'audio/mpeg',
+        fileName: `${title}.mp3`.replace(/[^\w\s.-]/gi, ''),
+        caption: `📁 *${title}* (Document)`,
+        contextInfo: getContextInfo(title, userJid, video.thumbnail)
+      }
+    ];
+
+    for (const payload of messagePayloads) {
+      await zk.sendMessage(dest, payload, { quoted: ms });
+    }
+
+  } catch (error) {
+    console.error('Audio download error:', error);
+    repondre(zk, dest, ms, `Download failed: ${error.message}`);
+  }
+});
+
+// Video download command with new API endpoints
+ezra({
+  nomCom: "video",
+  aliases: ["videodoc", "film", "mp4"],
+  categorie: "Fredi-Download",
+  reaction: "🎥"
+}, async (dest, zk, commandOptions) => {
+  const { arg, ms, userJid } = commandOptions;
+
+  try {
+    if (!arg[0]) {
+      return repondre(zk, dest, ms, "Please provide a video name.");
+    }
+
+    const query = arg.join(" ");
+    const video = await searchYouTube(query);
+    
+    await zk.sendMessage(dest, {
+      text: "⬇️ Downloading video... This may take a moment...",
+      contextInfo: getContextInfo("Downloading", userJid, video.thumbnail)
+    }, { quoted: ms });
+
+    // Using new API endpoints for video
+    const apis = [
+      `https://api.ootaizumi.web.id/downloader/youtube/v2?url=${encodeURIComponent(video.url)}&type=video`,
+      `https://api.ootaizumi.web.id/downloader/youtube?url=${encodeURIComponent(video.url)}&type=video`,
+      `https://api.ootaizumi.web.id/downloader/youtube/play?query=${encodeURIComponent(query)}&type=video`
+    ];
+
+    const downloadData = await downloadFromApis(apis);
+    
+    // Handle different API response formats
+    let downloadUrl, title;
+    if (downloadData.url) {
+      downloadUrl = downloadData.url;
+      title = video.title || "Video";
+    } else if (downloadData.result?.url) {
+      downloadUrl = downloadData.result.url;
+      title = downloadData.result.title || video.title;
+    } else if (downloadData.download_url) {
+      downloadUrl = downloadData.download_url;
+      title = downloadData.title || video.title;
+    } else {
+      throw new Error('Invalid API response format');
+    }
+
+    const messagePayloads = [
+      {
+        video: { url: downloadUrl },
+        mimetype: 'video/mp4',
+        caption: `🎥 *${title}*`,
+        contextInfo: getContextInfo(title, userJid, video.thumbnail)
+      },
+      {
+        document: { url: downloadUrl },
+        mimetype: 'video/mp4',
+        fileName: `${title}.mp4`.replace(/[^\w\s.-]/gi, ''),
+        caption: `📁 *${title}* (Document)`,
+        contextInfo: getContextInfo(title, userJid, video.thumbnail)
+      }
+    ];
+
+    for (const payload of messagePayloads) {
+      await zk.sendMessage(dest, payload, { quoted: ms });
+    }
+
+  } catch (error) {
+    console.error('Video download error:', error);
+    repondre(zk, dest, ms, `Download failed: ${error.message}`);
+  }
+});
+
+// Direct search and download command using the /play endpoint
+ezra({
+  nomCom: "ytsearch",
+  aliases: ["youtube", "yt"],
+  categorie: "Fredi-Download",
+  reaction: "🔍"
+}, async (dest, zk, commandOptions) => {
+  const { arg, ms, userJid } = commandOptions;
+
+  try {
+    if (!arg[0]) {
+      return repondre(zk, dest, ms, "Please provide a search query.");
+    }
+
+    const query = arg.join(" ");
+    
+    await zk.sendMessage(dest, {
+      text: "🔍 Searching YouTube...",
+      contextInfo: getContextInfo("Searching", userJid)
+    }, { quoted: ms });
+
+    // Direct search using the /play endpoint
+    const apiUrl = `https://api.ootaizumi.web.id/downloader/youtube/play?query=${encodeURIComponent(query)}`;
+    
+    const response = await axios.get(apiUrl, { timeout: 15000 });
+    
+    if (!response.data || (!response.data.url && !response.data.result?.url)) {
+      throw new Error('No results found or invalid API response');
+    }
+
+    // Handle response format
+    let downloadData;
+    if (response.data.result) {
+      downloadData = response.data;
+    } else {
+      downloadData = response.data;
+    }
+
+    let downloadUrl, title, thumbnail;
+    
+    if (downloadData.result?.url) {
+      downloadUrl = downloadData.result.url;
+      title = downloadData.result.title || query;
+      thumbnail = downloadData.result.thumbnail || '';
+    } else if (downloadData.url) {
+      downloadUrl = downloadData.url;
+      title = downloadData.title || query;
+      thumbnail = downloadData.thumbnail || '';
+    } else {
+      downloadUrl = downloadData.download_url || downloadData.url;
+      title = downloadData.title || query;
+      thumbnail = downloadData.thumbnail || '';
+    }
+
+    // Check if it's audio or video based on file extension or API response
+    const isAudio = downloadUrl.includes('.mp3') || (downloadData.type === 'audio');
+    
+    const messagePayload = isAudio ? {
+      audio: { url: downloadUrl },
+      mimetype: 'audio/mp4',
+      caption: `🎵 *${title}*`,
+      contextInfo: getContextInfo(title, userJid, thumbnail)
+    } : {
+      video: { url: downloadUrl },
+      mimetype: 'video/mp4',
+      caption: `🎥 *${title}*`,
+      contextInfo: getContextInfo(title, userJid, thumbnail)
+    };
+
+    await zk.sendMessage(dest, messagePayload, { quoted: ms });
+
+  } catch (error) {
+    console.error('YouTube search error:', error);
+    repondre(zk, dest, ms, `Search failed: ${error.message}`);
+  }
+});
+
+// URL upload command (unchanged, but kept for completeness)
+ezra({
+  nomCom: 'url-link',
+  categorie: "Fredi-Download",
+  reaction: '👨🏿‍💻'
+}, async (dest, zk, commandOptions) => {
+  const { msgRepondu, userJid, ms } = commandOptions;
+
+  try {
+    if (!msgRepondu) {
+      return repondre(zk, dest, ms, "Please mention an image, video, or audio.");
+    }
+
+    const mediaTypes = [
+      'videoMessage', 'gifMessage', 'stickerMessage',
+      'documentMessage', 'imageMessage', 'audioMessage'
+    ];
+
+    const mediaType = mediaTypes.find(type => msgRepondu[type]);
+    if (!mediaType) {
+      return repondre(zk, dest, ms, "Unsupported media type.");
+    }
+
+    const mediaPath = await zk.downloadAndSaveMediaMessage(msgRepondu[mediaType]);
+    const fileUrl = await uploadToCatbox(mediaPath);
+    fs.unlinkSync(mediaPath);
+
+    await zk.sendMessage(dest, {
+      text: `✅ Here's your file URL:\n${fileUrl}`,
+      contextInfo: getContextInfo("Upload Complete", userJid)
+    });
+
+  } catch (error) {
+    console.error("Upload error:", error);
+    repondre(zk, dest, ms, `Upload failed: ${error.message}`);
+  }
+});
